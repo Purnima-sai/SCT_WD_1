@@ -1,73 +1,29 @@
-# Welcome to your Lovable project
+# 🚀 Responsive Landing Page – SkillCraft Technology
 
-## Project info
+Welcome to the SkillCraft Technology landing page project! This project focuses on creating a modern, interactive, and responsive navigation experience that enhances user interaction and ensures smooth usability across all devices.
 
-**URL**: https://lovable.dev/projects/afd47dfe-84a0-4f27-b097-fbf5d96580d4
+## 📌 Task 01 Overview
 
-## How can I edit this code?
+**Objective**:  
+Design and develop a **responsive landing page** featuring an **interactive fixed navigation menu** that reacts to user actions like scrolling and hovering.
 
-There are several ways of editing your application.
+### ✨ Key Features
 
-**Use Lovable**
+- ✅ **Fixed Navigation Bar** – Always visible at the top on all pages
+- 🎨 **Dynamic Style on Scroll & Hover** – Changes appearance to improve UX
+- 📱 **Mobile Responsive Design** – Fully optimized for desktop, tablet, and mobile
+- 🔄 **Smooth Scroll Behavior** – For seamless section transitions
+- 🌟 **Active Link Highlighting** – Shows the current section
+- 🍔 **Animated Hamburger Menu** – Mobile-friendly toggle menu
+- 🌗 **(Optional)** Dark/Light Theme Toggle for visual preference
+- 🌀 **Scroll Animations** – Section fade-in and motion effects (e.g., AOS or GSAP)
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/afd47dfe-84a0-4f27-b097-fbf5d96580d4) and start prompting.
+## 🧰 Tech Stack
 
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/afd47dfe-84a0-4f27-b097-fbf5d96580d4) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+- HTML5
+- CSS3 (with animations and media queries)
+- JavaScript (ES6+)
+- Optional libraries:
+  - [AOS](https://michalsnik.github.io/aos/) – Animate on scroll
+  - [Font Awesome](https://fontawesome.com/) – For icons
+  - [GSAP](https://greensock.com/gsap/) – Advanced animations
